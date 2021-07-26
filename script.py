@@ -3,8 +3,8 @@ from telethon.tl.functions.messages import AddChatUserRequest
 from telethon.tl.types import InputPhoneContact
 from telethon.tl.functions.contacts import ImportContactsRequest
 
-api_id = 7368157
-api_hash = '3389a741388d15280f696b3d4f046042'
+api_id = 
+api_hash = ''
 phone_number = '+79152617655'
 
 group_id = 263549607 
